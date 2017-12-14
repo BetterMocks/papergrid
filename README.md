@@ -1,10 +1,24 @@
-# papergrid
-*Module for Parsing papers*
+# README
 
-**Languages** -- Ruby 2.3.x
+This README would normally document whatever steps are necessary to get the
+application up and running.
 
-**Functionality**
-  1. Extracting Document Information (Type, Dates, versions, Page,..etc.)
-  2. Extracting Title and Abstract of the papers
-  3. Extracting Author information from the paper
-  4. Managing Large amount of papers
+Things you may want to cover:
+
+* Ruby version
+
+* System dependencies
+
+* Configuration
+
+* Database creation
+
+* Database initialization
+
+* How to run the test suite
+
+* Services (job queues, cache servers, search engines, etc.)
+
+* Deployment instructions
+
+* ...
